@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:13,Caracas
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ad733f32cdcae2092ce2eb8/playlist.m3u8
+
+#EXTINF:-1,Valencia Musik
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ad733d22cdcae2092ce2ea0/playlist.m3u8
+
+#EXTINF:-1,Valencia POP
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ad732132cdc2de0129f77d7/playlist.m3u8
+
+#EXTINF:-1,MIX
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ad733a52cdcae2092ce2e73/playlist.m3u8
+
+#EXTINF:-1,Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1,ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1,Tves
+http://192.168.226.8:8081/valencia/canal_teves/playlist.m3u8
+
+#EXTINF:-1,FANB
+http://192.168.226.8:8081/valencia/canal_fanb/playlist.m3u8
+
+#EXTINF:-1,CONCIENCIA
+http://192.168.226.8:8081/valencia/canal_conciencia/playlist.m3u8
+
+#EXTINF:-1,Promar TV
+http://192.168.226.8:8081/valencia/promar/playlist.m3u8
+
+#EXTINF:-1,Venevisión
+http://192.168.226.8:8081/valencia/canal_venevision/playlist.m3u8
+
+#EXTINF:-1,Vive TV
+http://192.168.226.8:8081/valencia/canal_vive_tv/playlist.m3u8
+
+#EXTINF:-1,Globovisión
+http://192.168.226.8:8081/valencia/canal_globovision/playlist.m3u8
+
+#EXTINF:-1,VTV
+http://192.168.226.8:8081/valencia/canal_vtv/playlist.m3u8
+
+#EXTINF:-1,Telesur
+http://192.168.226.8:8081/valencia/canal_telesur/playlist.m3u8
+
+#EXTINF:-1,Vale TV
+http://192.168.226.8:8081/valencia/canal_vale_tv/playlist.m3u8
+
+#EXTINF:-1,Televen
+http://192.168.226.8:8081/valencia/canal_televen/playlist.m3u8
+
+#EXTINF:-1,TLT (La Tele Tuya)
+http://192.168.226.8:8081/valencia/canal_tlt/playlist.m3u8
+
+#EXTINF:-1,ANTV
+http://192.168.226.8:8081/valencia/canal_antv/playlist.m3u8
+
+#EXTINF:-1,CGTN español
+http://192.168.225.2:8081/valencia/canal_cgtn_esp/playlist.m3u8
+
+#EXTINF:-1,Arirang korea
+http://192.168.226.8:8081/valencia/canal_arirang_korea/playlist.m3u8
